@@ -10,11 +10,11 @@ Here's a glimpse of what I bring to the table:
 
 - Expertise in WordPress web application development and REST API integration
 - Proficiency in Drupal contrib commerce module for eCommerce solutions
--  Skilled in Drupal custom modules, themes development, and customization
--  Experienced in Shopify custom APP development, theme customization, and web pages design
-🔸 Strong background in HTML, CSS, JavaScript for WordPress theme development
-🔸 Custom Plugin development tailored to your requirements
-🔸 Seamless responsive web design ensuring cross-browser compatibility
-🔸 Proficient in Git version control for streamlined development processes
+- Skilled in Drupal custom modules, themes development, and customization
+- Experienced in Shopify custom APP development, theme customization, and web pages design
+- Strong background in HTML, CSS, JavaScript for WordPress theme development
+- Custom Plugin development tailored to your requirements
+- Seamless responsive web design ensuring cross-browser compatibility
+- Proficient in Git version control for streamlined development processes
 
 I thrive on creating clean, user-friendly websites that enhance the online experience for users. Attention to detail is my forte, and I always strive to deliver top-notch code that not only meets project specifications but also exceeds client expectations.
