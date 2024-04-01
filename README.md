@@ -8,10 +8,10 @@ As a seasoned web developer, I specialize in crafting outstanding digital experi
 
 Here's a glimpse of what I bring to the table:
 
-🔸 Expertise in WordPress web application development and REST API integration
-🔸 Proficiency in Drupal contrib commerce module for eCommerce solutions
-🔸 Skilled in Drupal custom modules, themes development, and customization
-🔸 Experienced in Shopify custom APP development, theme customization, and web pages design
+- Expertise in WordPress web application development and REST API integration
+- Proficiency in Drupal contrib commerce module for eCommerce solutions
+-  Skilled in Drupal custom modules, themes development, and customization
+-  Experienced in Shopify custom APP development, theme customization, and web pages design
 🔸 Strong background in HTML, CSS, JavaScript for WordPress theme development
 🔸 Custom Plugin development tailored to your requirements
 🔸 Seamless responsive web design ensuring cross-browser compatibility
