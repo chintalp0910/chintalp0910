@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @chintalp, Fullstack developer
 
 - 👀 I am interested in PHP Laravel , Codeigniter, WordPress and Shopify Development
-- 📫 Email me @ mailto:chintalp0910@gmail.com
+- 📫 Email me @ chintalp0910@gmail.com
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute, but only when no one is watching.
 
 As a seasoned web developer, I specialize in crafting outstanding digital experiences using PHP, Laravel , WordPress and Shopify. My passion lies in creating websites that not only look stunning but also deliver exceptional results. 
